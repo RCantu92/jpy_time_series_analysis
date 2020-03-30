@@ -67,4 +67,4 @@ Futures spreads, as opposed to futures contracts, often exhibit more seasonal pa
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Roberto Cantu**  - [GitHub](https://github.com/RCantu92)
